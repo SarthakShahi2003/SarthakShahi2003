@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Sarthak Shahi<br> I'm a aspiring Data Analyst<br> from Prayagraj, Uttar Pradesh
+Hi 👋! My name is Sarthak Shahi<br> I'm a Aspiring Data Scientist<br> from Prayagraj, Uttar Pradesh
 
 
 ## 🌐 Socials:
